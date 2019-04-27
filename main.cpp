@@ -9,5 +9,5 @@ int main(){
 
   test = enigma.cipher(test);
 
-  std::cout << test;
+  std::cout << test << "\n";
 }
