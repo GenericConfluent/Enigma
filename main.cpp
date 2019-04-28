@@ -5,9 +5,7 @@
 int main(){
   EnigmaMachine enigma;
 
-  std::string test = "test";
-
-  test = enigma.cipher(test);
-
-  std::cout << test << "\n";
+  std::string testcipher = enigma.cipher("test");
+  std::cout << "Test Cipher: " << testcipher << "\n";
+  std::cout << "Test Decipher: " << enigma.decipher(testcipher) << "\n";
 }
