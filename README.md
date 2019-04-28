@@ -1,0 +1,2 @@
+# Enigma
+This repository is basically a redo of a failed enigma machine that I attempted to create a year ago when I was new to C++. It was a project that was too ambitious for my skills at the time. So I left the project and decided to just work on improving my skills in the language. Then I forgot about it. On April 26, 2019, I was looking through my repositories(most of which are private) I saw it and thought I ought to attempt redoing it. This is that attempt, so if you feel like it download the code yourself and explore it.
